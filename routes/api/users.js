@@ -36,7 +36,7 @@ router.post(
 				return res.status(400).json({
 					errors: [
 						{
-							msg: "User already exits",
+							message: "User already exits",
 						},
 					],
 				});

@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://adya:adya@devconnector.u461u.mongodb.net/devconnector?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "518c5ed9a65ad4299fe5",
+    "githubSecret": "62fb32acc6531d061fc8d919888a380d491286cd"
 }

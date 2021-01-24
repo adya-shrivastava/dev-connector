@@ -5,8 +5,8 @@ export const Navbar = () => {
 	return (
 		<nav className='navbar bg-dark'>
 			<h1>
-				<Link href='/'>
-					<i clLinkssName='fas fa-code'></i> DevConnector
+				<Link to='/'>
+					<i className='fas fa-code'></i> DevConnector
 				</Link>
 			</h1>
 			<ul>
